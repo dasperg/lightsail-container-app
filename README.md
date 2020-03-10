@@ -1,6 +1,6 @@
 # Lightsail container app
 
-This is simple tutorial how to launch Lightsail instance with dockerized app.
+This is easy an cheap version how to deploy containers on AWS.
 
 1. Create AWS account and go to [Lightsail console](https://lightsail.aws.amazon.com/ls/webapp/home/instances)
 2. Create new instance
